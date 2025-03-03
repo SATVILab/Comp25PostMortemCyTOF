@@ -7,7 +7,18 @@
       "path": "../Comp25PostMortemCyTOF"
     },
     {
+      "path": "../DataProcessed25PostMortemCyTOFFAUST"
+    },
+    {
       "path": "../DataProcessed25PostMortemCyTOFCytokines"
     },
-  ]
+  ],
+  "settings": {
+    "search.exclude": {
+        "../DataProcessed25PostMortemCyTOFFAUST/**": true
+    },
+    "files.watcherExclude": {
+        "../DataProcessed25PostMortemCyTOFFAUST/**": true
+    }
+  }
 }
