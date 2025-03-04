@@ -12,6 +12,9 @@
     {
       "path": "../DataProcessed25PostMortemCyTOFCytokines"
     },
+    {
+      "path": "../stimgate"
+    },
   ],
   "settings": {
     "search.exclude": {
